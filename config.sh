@@ -34,3 +34,4 @@ sudo apt install python3-pip -y
 sudo pip install passlib
 sudo apt install git -y 
 sudo apt install terminator -y
+sudo apt install gh -y
